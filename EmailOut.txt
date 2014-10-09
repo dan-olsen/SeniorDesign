@@ -1,5 +1,0 @@
-hello,
-
-We are a team of undergraduate engineering students working on a Senior Design Project at Southern Illinois University Carbondale. We have great passion for advancing the open source and 3D printing community.  Project PAM is seeking to take DLP 3D printing in a new direction of higher build volumes and lower costs without sacrificing resolution. The goal for this project is to produce a high resolution DLP printer that is fully open sourced using off-the-shelf hardware and that is well documented.
-
-Please check us out at projectpam.github.io
